@@ -1,0 +1,43 @@
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# Visual Studio Code
+.vscode/
+
+# Minecraft runtime files (Mod run directory & test servers)
+run/
+mod/run/
+logs/
+crash-reports/
+saves/
+options.txt
+servers.dat
+usernamecache.json
+usercache.json
+banned-ips.json
+banned-players.json
+ops.json
+whitelist.json
+server.properties
+eula.txt
+
+# OS & Local files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp

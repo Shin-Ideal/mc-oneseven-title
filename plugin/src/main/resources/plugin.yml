@@ -1,0 +1,7 @@
+name: TitleBackport
+version: ${version}
+author: Shin(Shin-Ideal)
+main: com.github.shin_ideal.mconeseventitle.TitleBackportPlugin
+api-version: 1.13
+softdepend: [ViaVersion, ViaRewind]
+description: Backports titles, subtitles, and action bar to Minecraft 1.7.10 clients with the TitleBackport mod.
